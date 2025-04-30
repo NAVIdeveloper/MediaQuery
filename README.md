@@ -3,7 +3,7 @@ A responsive design helper for Flet applications that brings CSS-like media quer
 
 ## Features ✨
 
-- **Breakpoint System**: Predefined mobile/tablet/desktop breakpoints
+- **Breakpoint System**: Easy predefining mobile/tablet/desktop breakpoints
 - **Reactive Components**: Automatically update layouts when window resizes
 - **Customizable**: Override default breakpoints with your own values
 - **Flet Integration**: Works seamlessly with existing Flet applications
